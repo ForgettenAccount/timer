@@ -3,6 +3,10 @@ body {
   margin: 24px;
 }
 
+.h1 {
+  font-family: sans-serif;
+}
+
 .timer {
   font-family: sans-serif;
   display: inline-block;
